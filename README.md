@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @andresbrice
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning laravel, js and introducing to react
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  -www.linkedin.com/in/andres-briceno
 
 <!---
 andresbrice/andresbrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
