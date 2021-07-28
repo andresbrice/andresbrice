@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andresbrice
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel, js and introducing to react
+- 🌱 I’m currently learning laravel, Javascript and introducing to react
 - 📫 How to reach me:
   -www.linkedin.com/in/andres-briceno
 
